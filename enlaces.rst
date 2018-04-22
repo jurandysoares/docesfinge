@@ -16,3 +16,8 @@ Markdown
 * `CommonMark help <http://commonmark.org/help/>`_
 * `CommonMark tutorial <http://commonmark.org/help/tutorial/>`_
 * `Try CommonMark <http://spec.commonmark.org/dingus/>`_
+
+Markdown or Sphinx?
+-------------------
+
+* `reStructuredText vs Markdown for documentation <http://www.zverovich.net/2016/06/16/rst-vs-markdown.html>`_
