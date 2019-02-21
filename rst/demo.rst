@@ -1,56 +1,56 @@
-.. This is a comment. Note how any initial comments are moved by
-   transforms to after the document title, subtitle, and docinfo.
+.. Este é um comentário. Perceba os comentários 
+   após o título, subtítulo e docinfo.
 
 ================================
- reStructuredText Demonstration
+Demonstração de reStructuredText 
 ================================
 
-.. Above is the document title, and below is the subtitle.
-   They are transformed from section titles after parsing.
+.. Acima é o título do documento e abaixo é o subtítulo.
+   Eles são transformados em títulos de seção após a análise.
+   
+----------------------------------
+ Exemplos de construção da sintaxe
+----------------------------------
 
---------------------------------
- Examples of Syntax Constructs
---------------------------------
+.. campos bibliográficos (que também requerem uma transformação:
 
-.. bibliographic fields (which also require a transform):
-
-:Author: David Goodger
-:Address: 123 Example Street
+:Autor: David Goodger
+:Endereço: 123 Example Street
           Example, EX  Canada
           A1B 2C3
-:Contact: docutils-develop@lists.sourceforge.net
-:Authors: Me; Myself; I
-:organization: humankind
-:date: $Date: 2012-01-03 20:23:53 +0100 (Di, 03. JÃ¤n 2012) $
+:Contato: docutils-develop@lists.sourceforge.net
+:Autores: Mim; Eu mesmo; Eu
+:organização: raça humana
+:Data: $Date: 2012-01-03 20:23:53 +0100 (Dom, 03. Jan. 2012) $
 :status: This is a "work in progress"
-:revision: $Revision: 7302 $
-:version: 1
-:copyright: This document has been placed in the public domain. You
-            may do with it as you wish. You may copy, modify,
-            redistribute, reattribute, sell, buy, rent, lease,
-            destroy, or improve it, quote it at length, excerpt,
-            incorporate, collate, fold, staple, or mutilate it, or do
-            anything else to it that your or anyone else's heart
-            desires.
-:field name: This is a generic bibliographic field.
-:field name 2:
-    Generic bibliographic fields may contain multiple body elements.
+:revisão: $Revision: 7302 $
+:versão: 1
+:direitos autoriais: Este documento foi posto em domínio público. Você
+            pode fazer com ele o que quiser. Você pode copiar, modificar,
+            redistribuir, reatribuir, vender, comprar, alugar, financiar,
+            destruir ou melhorá-lo, citá-lo por completo ou em parte,
+            incorporar, agrupar, dobrar, grampear, ou mutilá-o, ou fazer
+            qualquer coisa a ele que seu coração ou de qualquer outra pessoa
+            desejar.
+:nome de campo: Este é um campo bibliográfico genérico.
+:nome de campo:
+    Campos bibliográficos genéricos podem conter vários elementos do corpo.
 
-    Like this.
+    Como este.
 
-:Dedication:
+:Dedicação:
 
-    For Docutils users & co-developers.
+    Para usuários de Docutils users & co-desenvolvedores.
 
-:abstract:
+:resumo:
 
-    This document is a demonstration of the reStructuredText markup
-    language, containing examples of all basic reStructuredText
-    constructs and many advanced constructs.
+    Este documento é uma demonstração da linguagem de marcação 
+    reStructuredText, contendo exemplos de todas as construções básicas 
+    de reStructuredText e muitas construções avançadas.
 
 .. meta::
    :keywords: reStructuredText, demonstration, demo, parser
-   :description lang=en: A demonstration of the reStructuredText
+   :description lang=pt: A demonstration of the reStructuredText
        markup language, containing examples of all basic
        constructs and many advanced constructs.
 
