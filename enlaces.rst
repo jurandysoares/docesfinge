@@ -11,6 +11,7 @@ Enlaces/links
 * `An introduction to Sphinx and Read the Docs for Technical Writers <http://ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/>`_
 * `How do I display a (R) or (TM) symbol on SE sites? <http://meta.stackexchange.com/questions/68200/how-do-i-display-a-r-or-tm-symbol-on-se-sites#comment163939_68200>`_
 * `How to create a nested list in reStructuredText? <http://stackoverflow.com/questions/5550089/how-to-create-a-nested-list-in-restructuredtext>`_
+* `Microsoft Style Guide <https://docs.microsoft.com/en-us/style-guide/welcome/>`_
 
 Markdown
 --------
