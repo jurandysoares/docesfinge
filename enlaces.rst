@@ -19,7 +19,7 @@ Markdown
 * `CommonMark help <http://commonmark.org/help/>`_
 * `CommonMark tutorial <http://commonmark.org/help/tutorial/>`_
 * `Try CommonMark <http://spec.commonmark.org/dingus/>`_
-* _`How to contribute to PowerShell documentation | Scripting <https://devblogs.microsoft.com/scripting/how-to-contribute-to-powershell-documentation/>`_
+* `How to contribute to PowerShell documentation | Scripting <https://devblogs.microsoft.com/scripting/how-to-contribute-to-powershell-documentation/>`_
 
 Markdown or Sphinx?
 -------------------
