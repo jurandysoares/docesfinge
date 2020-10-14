@@ -2,6 +2,8 @@
 
 ## Exemplo
 
+Conversão de Markdown para PDF:
+
 ```sh
 pandoc --smart \
        --standalone \
@@ -17,3 +19,6 @@ pandoc --smart \
        --output=markupt.pdf
        markup.md
 ```
+
+Referência:
+* [Markdown &amp; Pandoc - YouTube](http://youtube.com/watch?v=zFCiY9Sy%20dtI)
